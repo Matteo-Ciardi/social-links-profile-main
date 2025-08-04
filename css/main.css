@@ -6,6 +6,18 @@
 }
 
 /* Generics */
+body {
+    background-color: hsl(0, 0%, 8%);
+}
 
+span {
+    display: block;
+}
 
 /* Utils */
+.container {
+    margin: 0 auto;
+}
+
+
+/* Card */
