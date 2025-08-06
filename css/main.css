@@ -32,6 +32,7 @@ h2 {
     border-radius: 10px;
     text-align: center;
     background-color: hsl(0, 0%, 20%);
+    cursor: pointer;
 }
 
 /* Card */
@@ -76,7 +77,8 @@ img {
 
 /* Attributions */
 .attribution {
-    font-size: 0.7rem;
+    font-size: 9px;
     text-align: center;
     margin-top: 5px;
+    margin-left: 53px;
 }
